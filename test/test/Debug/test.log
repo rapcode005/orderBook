@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\rap\Documents\C++\vc\test\test\test.cpp(19,2): warning C4091: 'typedef ': ignored on left of 'orderBook' when no variable is declared
+C:\Users\rap\Documents\C++\vc\test\test\test.cpp(101,30): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\rap\Documents\C++\vc\test\test\test.cpp(105,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  test.vcxproj -> C:\Users\rap\Documents\C++\vc\test\Debug\test.exe

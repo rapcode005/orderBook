@@ -1,0 +1,2 @@
+C:\Users\rap\Documents\C++\vc\test\Release\test.exe.lastcodeanalysissucceeded
+C:\Users\rap\Documents\C++\vc\test\test\Release\NativeCodeAnalysis.read.1.tlog
